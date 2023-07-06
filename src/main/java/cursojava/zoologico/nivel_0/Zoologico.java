@@ -14,13 +14,7 @@ public class Zoologico {
         Cachorro cachorro = new Cachorro();
         Lobo lobo = new Lobo();
         
-        cachorro.reagir(6);
-      
-        cachorro.reagir(18);        
-
-        cachorro.reagir(22);        
-        
-        cachorro.reagir(24);        
+        cachorro.reagir(false);  
                
     }
 }
